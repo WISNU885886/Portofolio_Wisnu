@@ -200,17 +200,12 @@ img {
   z-index: -1;
 }
 
-.home__container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-}
-
 .home__data {
   width: 50%;
-  position: relative;
-  z-index: 1;
+}
+
+.home__img-container {
+  width: 45%;
 }
 
 .home__greeting {
